@@ -30,7 +30,7 @@ The ByteAndBite schema includes the following tables:
 ## Installation
 
 1. Clone this repository:
-   `git clone https://github.com/demirhanylcn/ByteAndBite.git'
+   `git clone https://github.com/demirhanylcn/ByteAndBite.git`
 2. Import the SQL scripts into your SQL server or database environment to create the schema.
 
 ## Usage
