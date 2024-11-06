@@ -1,5 +1,5 @@
 # ByteAndBite(SQL)
-Winter Semester 2023, SBD Project
+Winter Semester 2023, RBD Project
 
 ByteAndBite is a relational database project crafted to manage and enhance data operations in a restaurant environment. The database handles customer information, orders, chefs, recipes, ingredients, and payment details, bridging the gap between digital data and culinary operations.
 
