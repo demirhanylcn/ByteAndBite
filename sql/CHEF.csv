@@ -1,0 +1,9 @@
+ID,MAIL_ADDRESS,ADDRESS,HIREDATE,MASTER_CHEF
+1,chef1@restaurant.com,"123 Oak Street, New York, NY 10001, USA",2020-03-15,4
+2,chef2@restaurant.com,"456 Elm Avenue, Los Angeles, CA 90001, USA",2019-07-20,4
+3,chef3@restaurant.com,"789 Maple Drive, Chicago, IL 60007, USA",2021-01-10,4
+4,chef4@restaurant.com,"101 Pine Lane, Houston, TX 77002, USA",2018-11-25,
+5,chef5@restaurant.com,"202 Walnut Street, Miami, FL 33101, USA",2022-05-05,1
+6,chef6@restaurant.com,"303 Cedar Road, San Francisco, CA 94101, USA",2017-09-12,1
+7,chef7@restaurant.com,"404 Birch Avenue, Boston, MA 02201, USA",2023-02-28,1
+8,chef8@restaurant.com,"505 Maple Street, Seattle, WA 98101, USA",2020-10-15,2
