@@ -35,7 +35,7 @@ The ByteAndBite schema includes the following tables:
 
 ## Usage
 
-1. Run the `CREATE_TABLES.sql` script to set up the database schema.
-2. Use the `QUERIES.sql` file for sample queries, such as retrieving all payments within a specific date range or listing all chefs and their specialties.
+1. Run the `oracle_create_and_insert.sql` script to set up the database schema.
+2. Use the `oracle_queries.sql` file for sample queries, such as retrieving all payments within a specific date range or listing all chefs and their specialties.
 
 
